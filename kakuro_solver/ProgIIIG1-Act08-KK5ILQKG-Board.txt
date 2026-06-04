@@ -1,0 +1,19 @@
+# Kakuro - Muy dificil
+# Codigo: KK5ILQKG
+# Fuente: SudokuMania.com.ar
+# Dificultad: Muy dificil
+#
+# Formato: V\H -> V=suma hacia abajo, H=suma hacia la derecha
+#          V\  -> solo vertical   \H -> solo horizontal
+#          X   -> celda negra     O  -> celda jugable
+#
+#         A        B        C        D        E        F        G        H        I
+X        X        X        24\      10\      X        X        X        X
+X        X        \3       O        O        X        X        17\      11\
+X        7\       3\16     O        O        24\      38\17    O        O
+\6       O        O        O        6\25     O        O        O        O
+\22      O        O        O        O        O        O        11\      17\
+X        10\      17\38    O        O        O        O        O        O
+\16      O        O        O        O        9\23     O        O        O
+\17      O        O        X        \9       O        O        X        X
+X        X        X        X        \12      O        O        X        X
